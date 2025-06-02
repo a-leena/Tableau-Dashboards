@@ -10,4 +10,4 @@ Click on the image to view the interactive dashboard -
 Click on the image to view the interactive dashboard - 
 * Instruction: Set zoom to 75% for proper fitting, and view in full screen.
 
-[![Dashboard Preview](/Netlfix_Analysis_Dashboard.png)](https://public.tableau.com/views/Netflix_Da4/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Preview](/Netflix_Analysis_Dashboard.png)](https://public.tableau.com/views/Netflix_Da4/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
